@@ -1,0 +1,9 @@
+﻿## Interface: 80300
+## Title: AutoShot
+## Notes: Take screenshot at special time automatically.
+## Notes-zhTW: 自動截圖。
+## Notes-zhCN: 自动截图。
+## Author: EK
+## Version: R1
+
+AutoShot.lua
